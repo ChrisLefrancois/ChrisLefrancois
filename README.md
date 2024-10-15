@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Lefrançois</h1>
 <h3 align="center">A passionate Full-Stack developer from Canada</h3>
 
-- 🌱 I’m currently working with **Python** and **Ruby**
+- 🌱 I’m currently working with **Ruby** and **React**
 
 - 📫 How to reach me **chris.lefrancois1@gmail.com**
 
